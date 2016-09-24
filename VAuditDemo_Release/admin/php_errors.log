@@ -1,0 +1,227 @@
+[03-Aug-2016 19:04:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:04:07 UTC] PHP Stack trace:
+[03-Aug-2016 19:04:07 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 19:04:07 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 19:04:07 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:04:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:04:09 UTC] PHP Stack trace:
+[03-Aug-2016 19:04:09 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 19:04:09 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 19:04:09 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:06 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:06 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\logCheck.php:0
+[03-Aug-2016 19:05:06 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\logCheck.php:2
+[03-Aug-2016 19:05:06 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:07 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:07 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 19:05:07 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 19:05:07 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:09 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:09 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 19:05:09 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 19:05:09 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:16 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:16 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:05:16 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:05:16 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:17 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:17 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:05:18 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:05:18 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:05:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:05:42 UTC] PHP Stack trace:
+[03-Aug-2016 19:05:42 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:05:42 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:05:42 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:06:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:06:20 UTC] PHP Stack trace:
+[03-Aug-2016 19:06:20 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:06:20 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:06:21 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:08:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:08:19 UTC] PHP Stack trace:
+[03-Aug-2016 19:08:19 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:08:19 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:08:19 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 19:08:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 19:08:30 UTC] PHP Stack trace:
+[03-Aug-2016 19:08:30 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\ping.php:0
+[03-Aug-2016 19:08:30 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\ping.php:2
+[03-Aug-2016 19:08:30 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:49:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:49:53 UTC] PHP Stack trace:
+[03-Aug-2016 20:49:53 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 20:49:53 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 20:49:53 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:49:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:49:55 UTC] PHP Stack trace:
+[03-Aug-2016 20:49:55 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 20:49:55 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 20:49:55 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:04 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:04 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\logCheck.php:0
+[03-Aug-2016 20:50:04 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\logCheck.php:2
+[03-Aug-2016 20:50:04 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:05 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:05 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:50:05 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:50:05 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:07 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:07 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:50:07 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:50:07 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:24 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:24 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 20:50:24 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 20:50:24 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:26 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:26 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 20:50:26 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 20:50:26 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:41 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:41 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:50:41 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:50:41 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:43 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:43 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:50:43 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:50:43 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:46 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:46 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:50:46 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 20:50:46 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:47 UTC] PHP Notice:  Undefined index: user_id in E:\SourceCodes\VAuditDemo\admin\manageAdmin.php on line 38
+[03-Aug-2016 20:50:47 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:47 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:50:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:50:47 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:47 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:50:47 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 20:50:47 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:50:48 UTC] PHP Notice:  Undefined index: user_id in E:\SourceCodes\VAuditDemo\admin\manageAdmin.php on line 38
+[03-Aug-2016 20:50:48 UTC] PHP Stack trace:
+[03-Aug-2016 20:50:48 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:51:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:51:22 UTC] PHP Stack trace:
+[03-Aug-2016 20:51:22 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:51:22 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 20:51:22 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:51:23 UTC] PHP Notice:  Undefined index: user_id in E:\SourceCodes\VAuditDemo\admin\manageAdmin.php on line 38
+[03-Aug-2016 20:51:23 UTC] PHP Stack trace:
+[03-Aug-2016 20:51:23 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:51:23 UTC] PHP Notice:  Undefined index: user_id in E:\SourceCodes\VAuditDemo\admin\manageAdmin.php on line 38
+[03-Aug-2016 20:51:23 UTC] PHP Stack trace:
+[03-Aug-2016 20:51:23 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:52:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:10 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:10 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:52:10 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 20:52:10 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:12 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:12 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 20:52:12 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 20:52:12 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:19 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:19 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\delUser.php:0
+[03-Aug-2016 20:52:19 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\delUser.php:2
+[03-Aug-2016 20:52:19 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:20 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:20 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 20:52:20 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 20:52:20 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:22 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:22 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 20:52:22 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 20:52:22 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:27 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:27 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:52:27 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:52:27 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 20:52:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 20:52:28 UTC] PHP Stack trace:
+[03-Aug-2016 20:52:28 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 20:52:28 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 20:52:28 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:01:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:01:13 UTC] PHP Stack trace:
+[03-Aug-2016 21:01:13 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 21:01:13 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 21:01:13 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:01:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:01:15 UTC] PHP Stack trace:
+[03-Aug-2016 21:01:15 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 21:01:15 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 21:01:15 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:07:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:07:10 UTC] PHP Stack trace:
+[03-Aug-2016 21:07:10 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 21:07:10 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 21:07:10 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:07:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:07:20 UTC] PHP Stack trace:
+[03-Aug-2016 21:07:20 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\logCheck.php:0
+[03-Aug-2016 21:07:20 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\logCheck.php:2
+[03-Aug-2016 21:07:20 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:07:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:07:21 UTC] PHP Stack trace:
+[03-Aug-2016 21:07:21 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 21:07:21 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 21:07:21 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:07:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:07:27 UTC] PHP Stack trace:
+[03-Aug-2016 21:07:27 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 21:07:27 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 21:07:27 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:08:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:08:54 UTC] PHP Stack trace:
+[03-Aug-2016 21:08:54 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageUser.php:0
+[03-Aug-2016 21:08:54 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageUser.php:2
+[03-Aug-2016 21:08:54 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:08:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:08:58 UTC] PHP Stack trace:
+[03-Aug-2016 21:08:58 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 21:08:58 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 21:08:58 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:09:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:09:36 UTC] PHP Stack trace:
+[03-Aug-2016 21:09:36 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 21:09:36 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 21:09:36 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:09:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:09:42 UTC] PHP Stack trace:
+[03-Aug-2016 21:09:42 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:0
+[03-Aug-2016 21:09:42 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manageAdmin.php:2
+[03-Aug-2016 21:09:42 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:09:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:09:57 UTC] PHP Stack trace:
+[03-Aug-2016 21:09:57 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\login.php:0
+[03-Aug-2016 21:09:57 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\login.php:2
+[03-Aug-2016 21:09:57 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:10:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:10:10 UTC] PHP Stack trace:
+[03-Aug-2016 21:10:10 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\logCheck.php:0
+[03-Aug-2016 21:10:10 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\logCheck.php:2
+[03-Aug-2016 21:10:10 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17
+[03-Aug-2016 21:10:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in E:\SourceCodes\VAuditDemo\sys\config.php on line 17
+[03-Aug-2016 21:10:11 UTC] PHP Stack trace:
+[03-Aug-2016 21:10:11 UTC] PHP   1. {main}() E:\SourceCodes\VAuditDemo\admin\manage.php:0
+[03-Aug-2016 21:10:11 UTC] PHP   2. include_once() E:\SourceCodes\VAuditDemo\admin\manage.php:2
+[03-Aug-2016 21:10:11 UTC] PHP   3. mysql_connect('localhost', 'root', 'root') E:\SourceCodes\VAuditDemo\sys\config.php:17

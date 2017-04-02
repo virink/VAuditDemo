@@ -17,13 +17,15 @@
 - 截斷導致二次注入
 
 
-## 版權
+## 版權 
+
+[GPLv3](LICENSE)
 
 該程序基於**ZVulDrill**修改，借鑒了前端框架等。
 
 其他PHP代碼構造的漏洞純屬本人自行編寫。
 
-## 作者
+## 作者 Virink
 
 **Blog :** [Virink's Blog](https://www.virzz.com "Virink's Blog")
 

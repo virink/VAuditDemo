@@ -31,4 +31,4 @@
 
 **Telegram :** [@virink](https://telegram.me/virink)
 
-**Twitter :** [@virink1](https://twitter.com/virink1)
+**Twitter :** [@virinkz](https://twitter.com/virinkz)
